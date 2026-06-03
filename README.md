@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=30&duration=4000&pause=800&color=3674F7&width=435&lines=Hello+World+!;Follow+me+and+my+company+on+GitHub+)](https://github.com/Arnaud-Gensollen)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=30&duration=4000&pause=800&color=3674F7&width=435&lines=Hello+World+!)](https://github.com/Arnaud-Gensollen)
