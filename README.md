@@ -1,10 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&weight=500&size=30&duration=4000&pause=800&color=3674F7&width=435&lines=Hello+World+!)](https://github.com/Arnaud-Gensollen)
 
-<p align="center">
-  <a href="https://github.com/Arnaud-Gensollen">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=5d76fa&fontSize=54&height=90&width=506&text=Hello%20World%20!" alt="Hello World !" />
-  </a>
-</p>
 
 ### 📊 GitHub Stats
 
